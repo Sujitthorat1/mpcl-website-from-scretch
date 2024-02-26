@@ -6,9 +6,19 @@
   box-sizing: border-box;
   font-family: 'Poppins', sans-serif;
 }
-:root{
-  ---PrimaryColor:hsl(199, 100%, 33%);
-  ---SecondaryColor: hsl(199, 100%, 33%);
+
+:root {
+  --PrimaryColor: hsl(199, 100%, 33%);
+  --SecondaryColor: hsl(199, 100%, 33%);
+  --gradientColor: hsl(199, 100%, 33%);
+  --whiteColor: hsl(199, 100%, 33%);
+  --blackColor: hsl(199, 100%, 33%);
+  --textColor: hsl();
+  --whiteColorDeam: hsl();
+  --greyText: hsl();
+  --inputColor: rgb(239, 239, 239);
+  --bodyColor: rgb(240, 240, 246);
+  --cardBg:rgb(255,255,255);
 
 }
 
